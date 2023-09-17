@@ -1,0 +1,63 @@
+About me:
+I am a dedicated hardworking person always curious
+about learning new things and working on improving
+them. I like challenges and completing tasks with
+utmost perfection. I am seeking a job that helps me to
+learn and improve my skills and to grow as an
+individual.
+
+education:
+Kumaraguru College Of Technology -B.E in Electronics and Communication Engineering ( 2019 - 2023 )
+CGPA - 9.19%
+
+SKV Higher Secondary School - HSC State Board ( 2017 -2019) - 92%
+
+SRV Higher Secondary School - SSLC State Board
+( 2017) - 99%
+
+Area Of Interest:
+Python
+Web development
+Sketching
+Painting
+
+Skills:
+Python
+HTML
+CSS
+MS-Excel
+C
+Sketching
+Cloud -Azure
+
+Additional Courses:
+MS-Excel in Coursera
+Python in Coursera
+PCB designing workshop
+Azure 204-Developer certificate
+
+Contact
+9361571903
+sathurakkshaya3@gmail.com
+Rasipuram
+
+Resposibilites
+Led the Finance Team in Yugam(Techno Cultural Fest) and coordinated the registration team in 2022 and 2023.
+Volunteer in Earth.Org organization.                      
+Involved in a Swachh Bharat Event and a few social events. 
+Served as the Captain of the school volleyball team.
+
+DEDICATED | QUICKLEARNER | CREATIVE
+
+Projects:
+Robotic Arm
+As a team we designed a robotic arm using servo motors
+Projects
+Mask Detector
+It is a ML project using Rasperrypi to open the gate only if one wears the mask correctly
+
+
+hero section:
+My Portfolio
+
+I am Sathurakkshaya Manivannan. A Electronics and Communication Graduate.I aspire to become a web developer. I am currently studying web development and set myself a timeline for 90days. 
